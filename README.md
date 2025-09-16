@@ -3,7 +3,7 @@
 🚀 **Software Engineer | Full Stack Developer (MERN | MEAN | PERN)**  
 
 💡 Passionate about building modern web applications, automation workflows, and scalable solutions.  
-🌱 Currently working with **React, Angular, Next.js, Node.js, Express, PostgreSQL, MongoDB, and n8n**.  
+🌱 Currently working with **React, Angular, Next.js, Node.js, Express, PostgreSQL and n8n**.  
 🤝 Open to collaborating on **Full Stack Projects, SaaS tools, and Open Source Contributions**.  
 
 ---
@@ -32,14 +32,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shireenkhan-developer&theme=radical&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-## 🚀 Featured Projects  
-- 🌐 **Full Stack SaaS Apps** (React + Node + PostgreSQL/MongoDB)  
-- ⚡ **Automation Workflows** with **n8n**  
-- 📊 **Data Visualization Dashboards** with Angular & Next.js  
-- ☁️ **APIs & Microservices** built on Node.js + Express  
 
 ---
 
