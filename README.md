@@ -28,13 +28,6 @@
 
 ---
 
-## 🏆 Achievements & Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shireenkhan-developer&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/shireen-khan1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
