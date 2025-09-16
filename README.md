@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shireenkhan-developer&show_icons=true&hide_border=true&theme=radical&count_private=true" height="180em"/>
+  <img height="180em" src="https://github-readme-stats-omega-mocha.vercel.app/api?username=shireenkhan-developer&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireenkhan-developer&layout=compact&hide_border=true&theme=radical&langs_count=8" height="180em"/>
 </p>  
 
