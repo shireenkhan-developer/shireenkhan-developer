@@ -1,18 +1,61 @@
-👋 Hi, I'm @shireen-khan
+# 👩‍💻 Hi, I'm Shireen Khan  
 
-👀 I'm mostly interested in Full Stack Development focusing on MERN, MEAN or PERN tech.
+🚀 **Software Engineer | Full Stack Developer (MERN | MEAN | PERN)**  
 
-🌱 I'm currently working on modern technologies i.e. React JS, Node JS, ExpressJS, Angular JS
+💡 Passionate about building modern web applications, automation workflows, and scalable solutions.  
+🌱 Currently working with **React, Angular, Next.js, Node.js, Express, PostgreSQL, MongoDB, and n8n**.  
+🤝 Open to collaborating on **Full Stack Projects, SaaS tools, and Open Source Contributions**.  
 
-📫 I'm looking to collaborate on anything that can help consumers daily.
+---
 
-I'm currently working as a Software Engineer.
-
-Add me on Linkedin https://www.linkedin.com/in/shireen-khan1/
-
-📈 **My GitHub Stats**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shireenkhan-developer&show_icons=true&hide_border=true&theme=cobalt&count_private=true&include_all_commits=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireenkhan-developer&show_icons=true&hide_border=true&theme=cobalt&hide=hlsl,shaderlab&exclude_repo=OCRAIProject&layout=compact&langs_count=8"/>
+## 🛠️ Tech Stack & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,express,mongodb,postgres,typescript,javascript,html,css,tailwind,bootstrap,nestjs,git,github,linux,docker" />
 </p>
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shireenkhan-developer&show_icons=true&hide_border=true&theme=radical&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireenkhan-developer&layout=compact&hide_border=true&theme=radical&langs_count=8" height="180em"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shireenkhan-developer&theme=radical&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shireenkhan-developer&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+- 🌐 **Full Stack SaaS Apps** (React + Node + PostgreSQL/MongoDB)  
+- ⚡ **Automation Workflows** with **n8n**  
+- 📊 **Data Visualization Dashboards** with Angular & Next.js  
+- ☁️ **APIs & Microservices** built on Node.js + Express  
+
+---
+
+## 📫 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/shireen-khan1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:skhan.software2@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
+
+---
+
+## 👀 Profile Insights  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shireenkhan-developer&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
