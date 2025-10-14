@@ -22,10 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireenkhan-developer&layout=compact&hide_border=true&theme=radical&langs_count=8" height="180em"/>
 </p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shireenkhan-developer&theme=radical&hide_border=true" height="180em" />
-</p>
-
 ---
 
 ## 📫 Connect With Me  
