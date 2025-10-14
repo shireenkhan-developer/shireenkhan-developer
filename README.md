@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,express,mongodb,postgres,typescript,javascript,html,css,tailwind,bootstrap,nestjs,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nodejs,express,mongodb,postgres,typescript,javascript,html,css,tailwind,bootstrap,nestjs,git,github,linux,docker,swift" />
 </p>
 
 ---
