@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I'm Shireen Khan  
 
-🚀 **Software Engineer | Full Stack Developer (MERN | MEAN | PERN)**  
+🚀 **Software Engineer | Full Stack Developer (MERN | MEAN | PERN | PEAN)**  
 
 💡 Passionate about building modern web applications, automation workflows, and scalable solutions.  
 🌱 Currently working with **React, Angular, Next.js, Node.js, Express, PostgreSQL and n8n**.  
